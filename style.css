@@ -1,0 +1,48 @@
+body {
+	background: rgb(211, 211, 211); 
+  }
+
+h1 {
+	text-align: center;
+	background: rgb(255, 0, 132);
+	border: 6px solid ;
+}
+
+
+strong {
+	color: rgb(242, 39, 141);
+}
+p {
+	text-align: center;
+}
+#tamanho {
+	font-size: 20px;
+	text-align: center;
+}
+.itens {
+	font-style: italic;
+	display: inline-block;
+	vertical-align: top;
+	float: right;
+
+}
+.objetivos{
+	background: rgb(192, 192, 192);
+	padding: 25px;
+	padding-right: 15%;
+}
+.principal {
+	background: rgb(169, 169, 169);
+	padding: 30px;
+}
+
+.foto {
+	padding-left: 25%;
+
+}
+.fade:hover{
+    color: #e0cdd8;
+    -xpedu-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.0);
+}
